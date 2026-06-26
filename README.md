@@ -1,14 +1,23 @@
-# Prospecting Dashboard
+# Enterprise Prospecting Dashboard (2026)
 
-A modular, web-based suite designed to operationalize the "Beginner's Guide to Online Prospecting in Network Marketing (2026)." 
+This dashboard is a modular, local-first web suite designed to operationalize the strategies found in the **"Beginner's Guide to Online Prospecting in Network Marketing (2026)."**
 
-## Modules
-- **Blueprinting Dashboard:** Centralizes attribute discovery and niche identification.
-- **Content Asset Manager:** A 12-month ledger for content planning and on-page SEO auditing.
-- **Lead-Capture Engine:** A generator for high-conversion opt-in widgets.
-- **Diagnostics Suite:** Technical hygiene monitoring for XML sitemaps and site performance.
+## Purpose
+This tool serves as an operational companion to the eBook, providing digital entrepreneurs with a centralized environment to execute, store, and refine their prospecting workflows. By leveraging browser-based `localStorage`, the dashboard ensures that your strategic data remains private, secure, and stored exclusively on your local machine.
 
-## Usage
-This tool is designed to be self-hosted via GitHub Pages. It utilizes local browser storage (`localStorage`) for data privacy, ensuring your strategic inputs remain on your machine.
-3. License
-Create a file named LICENSE in your repository. For a personal project you own, the MIT
+## Core Modules
+
+*   **Blueprinting**: Define your niche attributes and synthesize your "WHY" statement.
+*   **Content Manager**: Manage your digital assets, draft content, and perform real-time structural audits.
+*   **Lead Capture**: Generate standardized lead collection forms.
+*   **Diagnostics**: Perform site performance checks and XML sitemap hygiene audits.
+*   **Sync Data**: Export and import your local settings for cross-device consistency.
+*   **Task Decomposer**: Break down complex prospecting objectives into actionable, step-by-step workflows.
+*   **Prompt Library**: Access and manage a curated library of AI-driven prompts for content creation.
+
+## Deployment
+This application is designed for rapid deployment. No backend or database server is required, ensuring maximum uptime and zero maintenance overhead.
+
+## Documentation & Resources
+*   **Reference**: [Beginner's Guide to Online Prospecting in Network Marketing (2026)](https://do-essential.net/b/beginners-guide-to-online-prospecting-in-network-marketing-2026)
+*   **Business Hub**: [do-essential.net](https://do-essential.net/)
